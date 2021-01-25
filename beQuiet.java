@@ -1,3 +1,5 @@
+//TODO fix private/ public mismatch
+
 public class beQuiet {
     int beQuiet = 90;
     public static int amplitudeChecker (int beQuiet){
